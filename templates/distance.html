@@ -1,0 +1,48 @@
+{% extends 'base.html' %}
+
+{% block main_content %}
+    <iframe src="https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d3197366.1203190545!2d32.86088362276044!3d38.50084222396491!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!3e0!4m5!1s0x14d347d520732db1%3A0xbdc57b0c0842b8d!2sAnkara!3m2!1d39.9333635!2d32.859741899999996!4m5!1s0x152dddbc3d7a1a47%3A0x8e9bdcea1291516f!2sKahramanmara%C5%9F!3m2!1d37.5752755!2d36.9228223!4m5!1s0x1531e6b4f7f18c2f%3A0xc02e8b35116baad0!2sGaziantep!3m2!1d37.065953!2d37.37811!5e0!3m2!1str!2str!4v1526369410914"
+            width="600" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+    <div style="position:absolute; left:50%; top:25%">
+        <div class="row" style="width:100%;">
+            <center>
+                <h3>A* Algoritması Kullanılarak Ankara-Gaziantep Arası Uzaklık {{path_cost}} Bulunmuştur.</h3>
+            </center>
+        </div>
+        <hr />
+        <div class="row" style="width:100%;">
+            <center>
+                <h3>Güzergah:</h3><br/>
+            </center>
+        </div>
+        <div class="row" style="width:100%;">
+            <center>
+                <p>{{path}}</p>
+            </center>
+        </div>
+    </div>
+<hr />
+    <iframe src="https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d3199501.6300226315!2d31.813780196549928!3d38.45270922170087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!3e0!4m5!1s0x14d347d520732db1%3A0xbdc57b0c0842b8d!2sAnkara!3m2!1d39.9333635!2d32.859741899999996!4m5!1s0x1529e7e65b22ed61%3A0xe646b6c110f0ab6f!2zTmnEn2RlLCBOacSfZGUgTWVya2V6L05pxJ9kZQ!3m2!1d37.969774!2d34.676608!4m5!1s0x15288f5b0f4f9623%3A0xffffffffd5e23ef1!2zRDQwMCBObzo5OCwgRMO2xZ9lbWUsIDAxMTMwIFNleWhhbi9BZGFuYQ!3m2!1d36.992658899999995!2d35.3171807!5e0!3m2!1str!2str!4v1526564113285"
+            width="600" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+    <div style="position:absolute; left:50%; top:90%">
+        <div class="row" style="width:100%;">
+            <center>
+                <h3>A* Algoritması Kullanılarak Ankara-Mersin Arası Uzaklık {{path_cost2}} Bulunmuştur.</h3>
+            </center>
+        </div>
+        <hr />
+        <div class="row" style="width:100%;">
+            <center>
+                <h3>Güzergah:</h3><br/>
+            </center>
+        </div>
+        <div class="row" style="width:100%;">
+            <center>
+                <p>{{path2}}</p>
+            </center>
+        </div>
+    </div>
+
+{% endblock %}

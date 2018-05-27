@@ -1,0 +1,2615 @@
+{
+   "name": "Ankara",
+   "heuristic": 506,
+   "distance": 0,
+   "children": [
+      {
+         "name": "Konya",
+         "heuristic": 440,
+         "distance": 262,
+         "children": [
+            {
+               "name": "Karaman",
+               "heuristic": 369,
+               "distance": 113,
+               "children": [
+                 {
+                   "name": "Mersin",
+                   "heuristic": 245,
+                   "distance": 292,
+                   "children": [
+                     {
+                       "name": "Adana",
+                       "heuristic": 182,
+                       "distance": 84,
+                       "children": [
+                         {
+                            "name": "Osmaniye",
+                            "heuristic": 107,
+                            "distance": 113,
+                            "children": [
+                              {
+                                "name": "Kahramanmaraş",
+                                "heuristic": 85,
+                                "distance": 161,
+                                "children": [
+                                  {
+                                    "name": "Gaziantep",
+                                    "heuristic": 0,
+                                    "distance": 117
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Gaziantep",
+                                "heuristic": 0,
+                                "distance": 148
+                              }
+                            ]
+                         }
+                       ]
+                     }
+                   ]
+                 }
+               ]
+            },
+            {
+               "name": "Aksaray",
+               "heuristic": 328,
+               "distance": 150,
+               "children": [
+                 {
+                   "name": "Niğde",
+                   "heuristic": 258,
+                   "distance": 108,
+                   "children": [
+                     {
+                       "name": "Adana",
+                       "heuristic": 182,
+                       "distance": 182,
+                       "children": [
+                         {
+                            "name": "Osmaniye",
+                            "heuristic": 107,
+                            "distance": 113,
+                            "children": [
+                              {
+                                "name": "Kahramanmaraş",
+                                "heuristic": 85,
+                                "distance": 161,
+                                "children": [
+                                  {
+                                    "name": "Gaziantep",
+                                    "heuristic": 0,
+                                    "distance": 117
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Gaziantep",
+                                "heuristic": 0,
+                                "distance": 148
+                              }
+                            ]
+                         }
+                       ]
+                     },
+                     {
+                   "name": "Mersin",
+                   "heuristic": 245,
+                   "distance": 188,
+                   "children": [
+                     {
+                       "name": "Adana",
+                       "heuristic": 182,
+                       "distance": 84,
+                       "children": [
+                         {
+                            "name": "Osmaniye",
+                            "heuristic": 107,
+                            "distance": 113,
+                            "children": [
+                              {
+                                "name": "Kahramanmaraş",
+                                "heuristic": 85,
+                                "distance": 161,
+                                "children": [
+                                  {
+                                    "name": "Gaziantep",
+                                    "heuristic": 0,
+                                    "distance": 117
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Gaziantep",
+                                "heuristic": 0,
+                                "distance": 148
+                              }
+                            ]
+                         }
+                       ]
+                     }
+                   ]
+                 }
+                   ]
+                 },
+                 {
+                   "name": "Kırşehir",
+                   "heuristic": 364,
+                   "distance": 94,
+                   "children": [
+                     {
+                         "name": "Yozgat",
+                         "heuristic": 379,
+                         "distance": 113,
+                         "children": [
+                           {
+                             "name": "Kayseri",
+                             "heuristic": 248,
+                             "distance": 171,
+                             "children": [
+                               {
+                                  "name": "Kahramanmaraş",
+                                  "heuristic": 85,
+                                  "distance": 286,
+                                  "children": [
+                                    {
+                                      "name": "Gaziantep",
+                                      "heuristic": 0,
+                                      "distance": 117
+                                    }
+                                  ]
+                                },
+                               {
+                                 "name": "Adana",
+                                 "heuristic": 182,
+                                 "distance": 306,
+                                 "children": [
+                                   {
+                                      "name": "Osmaniye",
+                                      "heuristic": 107,
+                                      "distance": 113,
+                                      "children": [
+                                        {
+                                          "name": "Kahramanmaraş",
+                                          "heuristic": 85,
+                                          "distance": 161,
+                                          "children": [
+                                            {
+                                              "name": "Gaziantep",
+                                              "heuristic": 0,
+                                              "distance": 117
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Gaziantep",
+                                          "heuristic": 0,
+                                          "distance": 148
+                                        }
+                                      ]
+                                   }
+                                 ]
+                               }
+                             ]
+                           }
+                         ]
+                      },
+                     {
+                         "name": "Nevşehir",
+                         "heuristic": 298,
+                         "distance": 84,
+                         "children": [
+                           {
+                             "name": "Kayseri",
+                             "heuristic": 248,
+                             "distance": 85,
+                             "children": [
+                               {
+                                  "name": "Kahramanmaraş",
+                                  "heuristic": 85,
+                                  "distance": 286,
+                                  "children": [
+                                    {
+                                      "name": "Gaziantep",
+                                      "heuristic": 0,
+                                      "distance": 117
+                                    }
+                                  ]
+                                },
+                               {
+                                 "name": "Adana",
+                                 "heuristic": 182,
+                                 "distance": 306,
+                                 "children": [
+                                   {
+                                      "name": "Osmaniye",
+                                      "heuristic": 107,
+                                      "distance": 113,
+                                      "children": [
+                                        {
+                                          "name": "Kahramanmaraş",
+                                          "heuristic": 85,
+                                          "distance": 161,
+                                          "children": [
+                                            {
+                                              "name": "Gaziantep",
+                                              "heuristic": 0,
+                                              "distance": 117
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Gaziantep",
+                                          "heuristic": 0,
+                                          "distance": 148
+                                        }
+                                      ]
+                                   }
+                                 ]
+                               }
+                             ]
+                           },
+                           {
+                             "name": "Niğde",
+                             "heuristic": 258,
+                             "distance": 97,
+                             "children": [
+                               {
+                                 "name": "Adana",
+                                 "heuristic": 182,
+                                 "distance": 182,
+                                 "children": [
+                                   {
+                                      "name": "Osmaniye",
+                                      "heuristic": 107,
+                                      "distance": 113,
+                                      "children": [
+                                        {
+                                          "name": "Kahramanmaraş",
+                                          "heuristic": 85,
+                                          "distance": 161,
+                                          "children": [
+                                            {
+                                              "name": "Gaziantep",
+                                              "heuristic": 0,
+                                              "distance": 117
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Gaziantep",
+                                          "heuristic": 0,
+                                          "distance": 148
+                                        }
+                                      ]
+                                   }
+                                 ]
+                               },
+                               {
+                                 "name": "Mersin",
+                                 "heuristic": 245,
+                                 "distance": 188,
+                                 "children": [
+                                   {
+                                     "name": "Adana",
+                                     "heuristic": 182,
+                                     "distance": 86,
+                                     "children": [
+                                       {
+                                          "name": "Osmaniye",
+                                          "heuristic": 107,
+                                          "distance": 113,
+                                          "children": [
+                                            {
+                                              "name": "Kahramanmaraş",
+                                              "heuristic": 85,
+                                              "distance": 161,
+                                              "children": [
+                                                {
+                                                  "name": "Gaziantep",
+                                                  "heuristic": 0,
+                                                  "distance": 117
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "Gaziantep",
+                                              "heuristic": 0,
+                                              "distance": 148
+                                            }
+                                          ]
+                                       }
+                                     ]
+                                   }
+                                 ]
+                               }
+                             ]
+                           }
+                         ]
+                      },
+                     {
+                         "name": "Aksaray",
+                         "heuristic": 328,
+                         "distance": 97,
+                         "children": [
+                           {
+                             "name": "Nevşehir",
+                             "heuristic": 298,
+                             "distance": 81,
+                             "children": [
+                               {
+                                 "name": "Kayseri",
+                                 "heuristic": 248,
+                                 "distance": 85,
+                                 "children": [
+                                   {
+                                      "name": "Kahramanmaraş",
+                                      "heuristic": 85,
+                                      "distance": 286,
+                                      "children": [
+                                        {
+                                          "name": "Gaziantep",
+                                          "heuristic": 0,
+                                          "distance": 117
+                                        }
+                                      ]
+                                    },
+                                   {
+                                     "name": "Adana",
+                                     "heuristic": 182,
+                                     "distance": 306,
+                                     "children": [
+                                       {
+                                          "name": "Osmaniye",
+                                          "heuristic": 107,
+                                          "distance": 113,
+                                          "children": [
+                                            {
+                                              "name": "Kahramanmaraş",
+                                              "heuristic": 85,
+                                              "distance": 161,
+                                              "children": [
+                                                {
+                                                  "name": "Gaziantep",
+                                                  "heuristic": 0,
+                                                  "distance": 117
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "Gaziantep",
+                                              "heuristic": 0,
+                                              "distance": 148
+                                            }
+                                          ]
+                                       }
+                                     ]
+                                   }
+                                 ]
+                               },
+                               {
+                                 "name": "Niğde",
+                                 "heuristic": 258,
+                                 "distance": 97,
+                                 "children": [
+                                   {
+                                     "name": "Adana",
+                                     "heuristic": 182,
+                                     "distance": 182,
+                                     "children": [
+                                       {
+                                          "name": "Osmaniye",
+                                          "heuristic": 107,
+                                          "distance": 113,
+                                          "children": [
+                                            {
+                                              "name": "Kahramanmaraş",
+                                              "heuristic": 85,
+                                              "distance": 161,
+                                              "children": [
+                                                {
+                                                  "name": "Gaziantep",
+                                                  "heuristic": 0,
+                                                  "distance": 117
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "Gaziantep",
+                                              "heuristic": 0,
+                                              "distance": 148
+                                            }
+                                          ]
+                                       }
+                                     ]
+                                   },
+                                   {
+                                     "name": "Mersin",
+                                     "heuristic": 245,
+                                     "distance": 188,
+                                     "children": [
+                                       {
+                                         "name": "Adana",
+                                         "heuristic": 182,
+                                         "distance": 86,
+                                         "children": [
+                                           {
+                                              "name": "Osmaniye",
+                                              "heuristic": 107,
+                                              "distance": 113,
+                                              "children": [
+                                                {
+                                                  "name": "Kahramanmaraş",
+                                                  "heuristic": 85,
+                                                  "distance": 161,
+                                                  "children": [
+                                                    {
+                                                      "name": "Gaziantep",
+                                                      "heuristic": 0,
+                                                      "distance": 117
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "Gaziantep",
+                                                  "heuristic": 0,
+                                                  "distance": 148
+                                                }
+                                              ]
+                                           }
+                                         ]
+                                       }
+                                     ]
+                                   }
+                                 ]
+                               }
+                             ]
+                          },
+                           {
+                             "name": "Niğde",
+                             "heuristic": 258,
+                             "distance": 108,
+                             "children": [
+                               {
+                                 "name": "Adana",
+                                 "heuristic": 182,
+                                 "distance": 84,
+                                 "children": [
+                                   {
+                                      "name": "Osmaniye",
+                                      "heuristic": 107,
+                                      "distance": 113,
+                                      "children": [
+                                        {
+                                          "name": "Kahramanmaraş",
+                                          "heuristic": 85,
+                                          "distance": 161,
+                                          "children": [
+                                            {
+                                              "name": "Gaziantep",
+                                              "heuristic": 0,
+                                              "distance": 117
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Gaziantep",
+                                          "heuristic": 0,
+                                          "distance": 148
+                                        }
+                                      ]
+                                   }
+                                 ]
+                               },
+                               {
+                             "name": "Mersin",
+                             "heuristic": 245,
+                             "distance": 292,
+                             "children": [
+                               {
+                                 "name": "Adana",
+                                 "heuristic": 182,
+                                 "distance": 84,
+                                 "children": [
+                                   {
+                                      "name": "Osmaniye",
+                                      "heuristic": 107,
+                                      "distance": 113,
+                                      "children": [
+                                        {
+                                          "name": "Kahramanmaraş",
+                                          "heuristic": 85,
+                                          "distance": 161,
+                                          "children": [
+                                            {
+                                              "name": "Gaziantep",
+                                              "heuristic": 0,
+                                              "distance": 117
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Gaziantep",
+                                          "heuristic": 0,
+                                          "distance": 148
+                                        }
+                                      ]
+                                   }
+                                 ]
+                               }
+                             ]
+                           }
+                             ]
+                           }
+                         ]
+                      }
+                   ]
+                 }
+               ]
+            },
+            {
+              "name": "Niğde",
+              "heuristic": 258,
+              "distance": 237,
+              "children": [
+                     {
+                       "name": "Adana",
+                       "heuristic": 182,
+                       "distance": 182,
+                       "children": [
+                         {
+                            "name": "Osmaniye",
+                            "heuristic": 107,
+                            "distance": 113,
+                            "children": [
+                              {
+                                "name": "Kahramanmaraş",
+                                "heuristic": 85,
+                                "distance": 161,
+                                "children": [
+                                  {
+                                    "name": "Gaziantep",
+                                    "heuristic": 0,
+                                    "distance": 117
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Gaziantep",
+                                "heuristic": 0,
+                                "distance": 148
+                              }
+                            ]
+                         }
+                       ]
+                     },
+                     {
+                   "name": "Mersin",
+                   "heuristic": 245,
+                   "distance": 188,
+                   "children": [
+                     {
+                       "name": "Adana",
+                       "heuristic": 182,
+                       "distance": 84,
+                       "children": [
+                         {
+                            "name": "Osmaniye",
+                            "heuristic": 107,
+                            "distance": 113,
+                            "children": [
+                              {
+                                "name": "Kahramanmaraş",
+                                "heuristic": 85,
+                                "distance": 161,
+                                "children": [
+                                  {
+                                    "name": "Gaziantep",
+                                    "heuristic": 0,
+                                    "distance": 117
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Gaziantep",
+                                "heuristic": 0,
+                                "distance": 148
+                              }
+                            ]
+                         }
+                       ]
+                     }
+                   ]
+                 }
+              ]
+            },
+            {
+                   "name": "Mersin",
+                   "heuristic": 245,
+                   "distance": 355,
+                   "children": [
+                     {
+                       "name": "Adana",
+                       "heuristic": 182,
+                       "distance": 84,
+                       "children": [
+                         {
+                            "name": "Osmaniye",
+                            "heuristic": 107,
+                            "distance": 113,
+                            "children": [
+                              {
+                                "name": "Kahramanmaraş",
+                                "heuristic": 85,
+                                "distance": 161,
+                                "children": [
+                                  {
+                                    "name": "Gaziantep",
+                                    "heuristic": 0,
+                                    "distance": 117
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Gaziantep",
+                                "heuristic": 0,
+                                "distance": 148
+                              }
+                            ]
+                         }
+                       ]
+                     }
+                   ]
+                 }
+         ]
+      },
+      {
+               "name": "Aksaray",
+               "heuristic": 328,
+               "distance": 230,
+               "children": [
+                 {
+                   "name": "Niğde",
+                   "heuristic": 258,
+                   "distance": 108,
+                   "children": [
+                     {
+                       "name": "Adana",
+                       "heuristic": 182,
+                       "distance": 182,
+                       "children": [
+                         {
+                            "name": "Osmaniye",
+                            "heuristic": 107,
+                            "distance": 113,
+                            "children": [
+                              {
+                                "name": "Kahramanmaraş",
+                                "heuristic": 85,
+                                "distance": 161,
+                                "children": [
+                                  {
+                                    "name": "Gaziantep",
+                                    "heuristic": 0,
+                                    "distance": 117
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Gaziantep",
+                                "heuristic": 0,
+                                "distance": 148
+                              }
+                            ]
+                         }
+                       ]
+                     },
+                     {
+                   "name": "Mersin",
+                   "heuristic": 245,
+                   "distance": 188,
+                   "children": [
+                     {
+                       "name": "Adana",
+                       "heuristic": 182,
+                       "distance": 84,
+                       "children": [
+                         {
+                            "name": "Osmaniye",
+                            "heuristic": 107,
+                            "distance": 113,
+                            "children": [
+                              {
+                                "name": "Kahramanmaraş",
+                                "heuristic": 85,
+                                "distance": 161,
+                                "children": [
+                                  {
+                                    "name": "Gaziantep",
+                                    "heuristic": 0,
+                                    "distance": 117
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Gaziantep",
+                                "heuristic": 0,
+                                "distance": 148
+                              }
+                            ]
+                         }
+                       ]
+                     }
+                   ]
+                 }
+                   ]
+                 },
+                 {
+                   "name": "Kırşehir",
+                   "heuristic": 364,
+                   "distance": 94,
+                   "children": [
+                     {
+                         "name": "Yozgat",
+                         "heuristic": 379,
+                         "distance": 113,
+                         "children": [
+                           {
+                             "name": "Kayseri",
+                             "heuristic": 248,
+                             "distance": 171,
+                             "children": [
+                               {
+                                  "name": "Kahramanmaraş",
+                                  "heuristic": 85,
+                                  "distance": 286,
+                                  "children": [
+                                    {
+                                      "name": "Gaziantep",
+                                      "heuristic": 0,
+                                      "distance": 117
+                                    }
+                                  ]
+                                },
+                               {
+                                 "name": "Adana",
+                                 "heuristic": 182,
+                                 "distance": 306,
+                                 "children": [
+                                   {
+                                      "name": "Osmaniye",
+                                      "heuristic": 107,
+                                      "distance": 113,
+                                      "children": [
+                                        {
+                                          "name": "Kahramanmaraş",
+                                          "heuristic": 85,
+                                          "distance": 161,
+                                          "children": [
+                                            {
+                                              "name": "Gaziantep",
+                                              "heuristic": 0,
+                                              "distance": 117
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Gaziantep",
+                                          "heuristic": 0,
+                                          "distance": 148
+                                        }
+                                      ]
+                                   }
+                                 ]
+                               }
+                             ]
+                           }
+                         ]
+                      },
+                     {
+                         "name": "Nevşehir",
+                         "heuristic": 298,
+                         "distance": 84,
+                         "children": [
+                           {
+                             "name": "Kayseri",
+                             "heuristic": 248,
+                             "distance": 85,
+                             "children": [
+                               {
+                                  "name": "Kahramanmaraş",
+                                  "heuristic": 85,
+                                  "distance": 286,
+                                  "children": [
+                                    {
+                                      "name": "Gaziantep",
+                                      "heuristic": 0,
+                                      "distance": 117
+                                    }
+                                  ]
+                                },
+                               {
+                                 "name": "Adana",
+                                 "heuristic": 182,
+                                 "distance": 306,
+                                 "children": [
+                                   {
+                                      "name": "Osmaniye",
+                                      "heuristic": 107,
+                                      "distance": 113,
+                                      "children": [
+                                        {
+                                          "name": "Kahramanmaraş",
+                                          "heuristic": 85,
+                                          "distance": 161,
+                                          "children": [
+                                            {
+                                              "name": "Gaziantep",
+                                              "heuristic": 0,
+                                              "distance": 117
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Gaziantep",
+                                          "heuristic": 0,
+                                          "distance": 148
+                                        }
+                                      ]
+                                   }
+                                 ]
+                               }
+                             ]
+                           },
+                           {
+                             "name": "Niğde",
+                             "heuristic": 258,
+                             "distance": 97,
+                             "children": [
+                               {
+                                 "name": "Adana",
+                                 "heuristic": 182,
+                                 "distance": 182,
+                                 "children": [
+                                   {
+                                      "name": "Osmaniye",
+                                      "heuristic": 107,
+                                      "distance": 113,
+                                      "children": [
+                                        {
+                                          "name": "Kahramanmaraş",
+                                          "heuristic": 85,
+                                          "distance": 161,
+                                          "children": [
+                                            {
+                                              "name": "Gaziantep",
+                                              "heuristic": 0,
+                                              "distance": 117
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Gaziantep",
+                                          "heuristic": 0,
+                                          "distance": 148
+                                        }
+                                      ]
+                                   }
+                                 ]
+                               },
+                               {
+                                 "name": "Mersin",
+                                 "heuristic": 245,
+                                 "distance": 188,
+                                 "children": [
+                                   {
+                                     "name": "Adana",
+                                     "heuristic": 182,
+                                     "distance": 86,
+                                     "children": [
+                                       {
+                                          "name": "Osmaniye",
+                                          "heuristic": 107,
+                                          "distance": 113,
+                                          "children": [
+                                            {
+                                              "name": "Kahramanmaraş",
+                                              "heuristic": 85,
+                                              "distance": 161,
+                                              "children": [
+                                                {
+                                                  "name": "Gaziantep",
+                                                  "heuristic": 0,
+                                                  "distance": 117
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "Gaziantep",
+                                              "heuristic": 0,
+                                              "distance": 148
+                                            }
+                                          ]
+                                       }
+                                     ]
+                                   }
+                                 ]
+                               }
+                             ]
+                           }
+                         ]
+                      },
+                     {
+                         "name": "Aksaray",
+                         "heuristic": 328,
+                         "distance": 97,
+                         "children": [
+                           {
+                             "name": "Nevşehir",
+                             "heuristic": 298,
+                             "distance": 81,
+                             "children": [
+                               {
+                                 "name": "Kayseri",
+                                 "heuristic": 248,
+                                 "distance": 85,
+                                 "children": [
+                                   {
+                                      "name": "Kahramanmaraş",
+                                      "heuristic": 85,
+                                      "distance": 286,
+                                      "children": [
+                                        {
+                                          "name": "Gaziantep",
+                                          "heuristic": 0,
+                                          "distance": 117
+                                        }
+                                      ]
+                                    },
+                                   {
+                                     "name": "Adana",
+                                     "heuristic": 182,
+                                     "distance": 306,
+                                     "children": [
+                                       {
+                                          "name": "Osmaniye",
+                                          "heuristic": 107,
+                                          "distance": 113,
+                                          "children": [
+                                            {
+                                              "name": "Kahramanmaraş",
+                                              "heuristic": 85,
+                                              "distance": 161,
+                                              "children": [
+                                                {
+                                                  "name": "Gaziantep",
+                                                  "heuristic": 0,
+                                                  "distance": 117
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "Gaziantep",
+                                              "heuristic": 0,
+                                              "distance": 148
+                                            }
+                                          ]
+                                       }
+                                     ]
+                                   }
+                                 ]
+                               },
+                               {
+                                 "name": "Niğde",
+                                 "heuristic": 258,
+                                 "distance": 97,
+                                 "children": [
+                                   {
+                                     "name": "Adana",
+                                     "heuristic": 182,
+                                     "distance": 182,
+                                     "children": [
+                                       {
+                                          "name": "Osmaniye",
+                                          "heuristic": 107,
+                                          "distance": 113,
+                                          "children": [
+                                            {
+                                              "name": "Kahramanmaraş",
+                                              "heuristic": 85,
+                                              "distance": 161,
+                                              "children": [
+                                                {
+                                                  "name": "Gaziantep",
+                                                  "heuristic": 0,
+                                                  "distance": 117
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "Gaziantep",
+                                              "heuristic": 0,
+                                              "distance": 148
+                                            }
+                                          ]
+                                       }
+                                     ]
+                                   },
+                                   {
+                                     "name": "Mersin",
+                                     "heuristic": 245,
+                                     "distance": 188,
+                                     "children": [
+                                       {
+                                         "name": "Adana",
+                                         "heuristic": 182,
+                                         "distance": 86,
+                                         "children": [
+                                           {
+                                              "name": "Osmaniye",
+                                              "heuristic": 107,
+                                              "distance": 113,
+                                              "children": [
+                                                {
+                                                  "name": "Kahramanmaraş",
+                                                  "heuristic": 85,
+                                                  "distance": 161,
+                                                  "children": [
+                                                    {
+                                                      "name": "Gaziantep",
+                                                      "heuristic": 0,
+                                                      "distance": 117
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "Gaziantep",
+                                                  "heuristic": 0,
+                                                  "distance": 148
+                                                }
+                                              ]
+                                           }
+                                         ]
+                                       }
+                                     ]
+                                   }
+                                 ]
+                               }
+                             ]
+                          },
+                           {
+                             "name": "Niğde",
+                             "heuristic": 258,
+                             "distance": 108,
+                             "children": [
+                               {
+                                 "name": "Adana",
+                                 "heuristic": 182,
+                                 "distance": 182,
+                                 "children": [
+                                   {
+                                      "name": "Osmaniye",
+                                      "heuristic": 107,
+                                      "distance": 113,
+                                      "children": [
+                                        {
+                                          "name": "Kahramanmaraş",
+                                          "heuristic": 85,
+                                          "distance": 161,
+                                          "children": [
+                                            {
+                                              "name": "Gaziantep",
+                                              "heuristic": 0,
+                                              "distance": 117
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Gaziantep",
+                                          "heuristic": 0,
+                                          "distance": 148
+                                        }
+                                      ]
+                                   }
+                                 ]
+                               },
+                               {
+                             "name": "Mersin",
+                             "heuristic": 245,
+                             "distance": 188,
+                             "children": [
+                               {
+                                 "name": "Adana",
+                                 "heuristic": 182,
+                                 "distance": 84,
+                                 "children": [
+                                   {
+                                      "name": "Osmaniye",
+                                      "heuristic": 107,
+                                      "distance": 113,
+                                      "children": [
+                                        {
+                                          "name": "Kahramanmaraş",
+                                          "heuristic": 85,
+                                          "distance": 161,
+                                          "children": [
+                                            {
+                                              "name": "Gaziantep",
+                                              "heuristic": 0,
+                                              "distance": 117
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Gaziantep",
+                                          "heuristic": 0,
+                                          "distance": 148
+                                        }
+                                      ]
+                                   }
+                                 ]
+                               }
+                             ]
+                           }
+                             ]
+                           }
+                         ]
+                      }
+                   ]
+                 }
+               ]
+            },
+      {
+                   "name": "Kırşehir",
+                   "heuristic": 364,
+                   "distance": 185,
+                   "children": [
+                     {
+                         "name": "Yozgat",
+                         "heuristic": 379,
+                         "distance": 113,
+                         "children": [
+                           {
+                             "name": "Kayseri",
+                             "heuristic": 248,
+                             "distance": 171,
+                             "children": [
+                               {
+                                  "name": "Kahramanmaraş",
+                                  "heuristic": 85,
+                                  "distance": 286,
+                                  "children": [
+                                    {
+                                      "name": "Gaziantep",
+                                      "heuristic": 0,
+                                      "distance": 117
+                                    }
+                                  ]
+                                },
+                               {
+                                 "name": "Adana",
+                                 "heuristic": 182,
+                                 "distance": 306,
+                                 "children": [
+                                   {
+                                      "name": "Osmaniye",
+                                      "heuristic": 107,
+                                      "distance": 113,
+                                      "children": [
+                                        {
+                                          "name": "Kahramanmaraş",
+                                          "heuristic": 85,
+                                          "distance": 161,
+                                          "children": [
+                                            {
+                                              "name": "Gaziantep",
+                                              "heuristic": 0,
+                                              "distance": 117
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Gaziantep",
+                                          "heuristic": 0,
+                                          "distance": 148
+                                        }
+                                      ]
+                                   }
+                                 ]
+                               }
+                             ]
+                           }
+                         ]
+                      },
+                     {
+                         "name": "Nevşehir",
+                         "heuristic": 298,
+                         "distance": 84,
+                         "children": [
+                           {
+                             "name": "Kayseri",
+                             "heuristic": 248,
+                             "distance": 85,
+                             "children": [
+                               {
+                                  "name": "Kahramanmaraş",
+                                  "heuristic": 85,
+                                  "distance": 286,
+                                  "children": [
+                                    {
+                                      "name": "Gaziantep",
+                                      "heuristic": 0,
+                                      "distance": 117
+                                    }
+                                  ]
+                                },
+                               {
+                                 "name": "Adana",
+                                 "heuristic": 182,
+                                 "distance": 306,
+                                 "children": [
+                                   {
+                                      "name": "Osmaniye",
+                                      "heuristic": 107,
+                                      "distance": 113,
+                                      "children": [
+                                        {
+                                          "name": "Kahramanmaraş",
+                                          "heuristic": 85,
+                                          "distance": 161,
+                                          "children": [
+                                            {
+                                              "name": "Gaziantep",
+                                              "heuristic": 0,
+                                              "distance": 117
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Gaziantep",
+                                          "heuristic": 0,
+                                          "distance": 148
+                                        }
+                                      ]
+                                   }
+                                 ]
+                               }
+                             ]
+                           },
+                           {
+                             "name": "Niğde",
+                             "heuristic": 258,
+                             "distance": 97,
+                             "children": [
+                               {
+                                 "name": "Adana",
+                                 "heuristic": 182,
+                                 "distance": 182,
+                                 "children": [
+                                   {
+                                      "name": "Osmaniye",
+                                      "heuristic": 107,
+                                      "distance": 113,
+                                      "children": [
+                                        {
+                                          "name": "Kahramanmaraş",
+                                          "heuristic": 85,
+                                          "distance": 161,
+                                          "children": [
+                                            {
+                                              "name": "Gaziantep",
+                                              "heuristic": 0,
+                                              "distance": 117
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Gaziantep",
+                                          "heuristic": 0,
+                                          "distance": 148
+                                        }
+                                      ]
+                                   }
+                                 ]
+                               },
+                               {
+                                 "name": "Mersin",
+                                 "heuristic": 245,
+                                 "distance": 188,
+                                 "children": [
+                                   {
+                                     "name": "Adana",
+                                     "heuristic": 182,
+                                     "distance": 86,
+                                     "children": [
+                                       {
+                                          "name": "Osmaniye",
+                                          "heuristic": 107,
+                                          "distance": 113,
+                                          "children": [
+                                            {
+                                              "name": "Kahramanmaraş",
+                                              "heuristic": 85,
+                                              "distance": 161,
+                                              "children": [
+                                                {
+                                                  "name": "Gaziantep",
+                                                  "heuristic": 0,
+                                                  "distance": 117
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "Gaziantep",
+                                              "heuristic": 0,
+                                              "distance": 148
+                                            }
+                                          ]
+                                       }
+                                     ]
+                                   }
+                                 ]
+                               }
+                             ]
+                           }
+                         ]
+                      },
+                     {
+                       "name": "Aksaray",
+                       "heuristic": 328,
+                       "distance": 97,
+                       "children": [
+                         {
+                           "name": "Niğde",
+                           "heuristic": 258,
+                           "distance": 108,
+                           "children": [
+                             {
+                               "name": "Adana",
+                               "heuristic": 182,
+                               "distance": 182,
+                               "children": [
+                                 {
+                                    "name": "Osmaniye",
+                                    "heuristic": 107,
+                                    "distance": 113,
+                                    "children": [
+                                      {
+                                        "name": "Kahramanmaraş",
+                                        "heuristic": 85,
+                                        "distance": 161,
+                                        "children": [
+                                          {
+                                            "name": "Gaziantep",
+                                            "heuristic": 0,
+                                            "distance": 117
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "Gaziantep",
+                                        "heuristic": 0,
+                                        "distance": 148
+                                      }
+                                    ]
+                                 }
+                               ]
+                             },
+                             {
+                           "name": "Mersin",
+                           "heuristic": 245,
+                           "distance": 188,
+                           "children": [
+                             {
+                               "name": "Adana",
+                               "heuristic": 182,
+                               "distance": 84,
+                               "children": [
+                                 {
+                                    "name": "Osmaniye",
+                                    "heuristic": 107,
+                                    "distance": 113,
+                                    "children": [
+                                      {
+                                        "name": "Kahramanmaraş",
+                                        "heuristic": 85,
+                                        "distance": 161,
+                                        "children": [
+                                          {
+                                            "name": "Gaziantep",
+                                            "heuristic": 0,
+                                            "distance": 117
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "Gaziantep",
+                                        "heuristic": 0,
+                                        "distance": 148
+                                      }
+                                    ]
+                                 }
+                               ]
+                             }
+                           ]
+                         }
+                           ]
+                         },
+                         {
+                           "name": "Kırşehir",
+                           "heuristic": 364,
+                           "distance": 94,
+                           "children": [
+                             {
+                                 "name": "Yozgat",
+                                 "heuristic": 379,
+                                 "distance": 113,
+                                 "children": [
+                                   {
+                                     "name": "Kayseri",
+                                     "heuristic": 248,
+                                     "distance": 171,
+                                     "children": [
+                                       {
+                                          "name": "Kahramanmaraş",
+                                          "heuristic": 85,
+                                          "distance": 286,
+                                          "children": [
+                                            {
+                                              "name": "Gaziantep",
+                                              "heuristic": 0,
+                                              "distance": 117
+                                            }
+                                          ]
+                                        },
+                                       {
+                                         "name": "Adana",
+                                         "heuristic": 182,
+                                         "distance": 306,
+                                         "children": [
+                                           {
+                                              "name": "Osmaniye",
+                                              "heuristic": 107,
+                                              "distance": 113,
+                                              "children": [
+                                                {
+                                                  "name": "Kahramanmaraş",
+                                                  "heuristic": 85,
+                                                  "distance": 161,
+                                                  "children": [
+                                                    {
+                                                      "name": "Gaziantep",
+                                                      "heuristic": 0,
+                                                      "distance": 117
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "Gaziantep",
+                                                  "heuristic": 0,
+                                                  "distance": 148
+                                                }
+                                              ]
+                                           }
+                                         ]
+                                       }
+                                     ]
+                                   }
+                                 ]
+                              },
+                             {
+                                 "name": "Nevşehir",
+                                 "heuristic": 298,
+                                 "distance": 84,
+                                 "children": [
+                                   {
+                                     "name": "Kayseri",
+                                     "heuristic": 248,
+                                     "distance": 85,
+                                     "children": [
+                                       {
+                                          "name": "Kahramanmaraş",
+                                          "heuristic": 85,
+                                          "distance": 286,
+                                          "children": [
+                                            {
+                                              "name": "Gaziantep",
+                                              "heuristic": 0,
+                                              "distance": 117
+                                            }
+                                          ]
+                                        },
+                                       {
+                                         "name": "Adana",
+                                         "heuristic": 182,
+                                         "distance": 306,
+                                         "children": [
+                                           {
+                                              "name": "Osmaniye",
+                                              "heuristic": 107,
+                                              "distance": 113,
+                                              "children": [
+                                                {
+                                                  "name": "Kahramanmaraş",
+                                                  "heuristic": 85,
+                                                  "distance": 161,
+                                                  "children": [
+                                                    {
+                                                      "name": "Gaziantep",
+                                                      "heuristic": 0,
+                                                      "distance": 117
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "Gaziantep",
+                                                  "heuristic": 0,
+                                                  "distance": 148
+                                                }
+                                              ]
+                                           }
+                                         ]
+                                       }
+                                     ]
+                                   },
+                                   {
+                                     "name": "Niğde",
+                                     "heuristic": 258,
+                                     "distance": 97,
+                                     "children": [
+                                       {
+                                         "name": "Adana",
+                                         "heuristic": 182,
+                                         "distance": 182,
+                                         "children": [
+                                           {
+                                              "name": "Osmaniye",
+                                              "heuristic": 107,
+                                              "distance": 113,
+                                              "children": [
+                                                {
+                                                  "name": "Kahramanmaraş",
+                                                  "heuristic": 85,
+                                                  "distance": 161,
+                                                  "children": [
+                                                    {
+                                                      "name": "Gaziantep",
+                                                      "heuristic": 0,
+                                                      "distance": 117
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "Gaziantep",
+                                                  "heuristic": 0,
+                                                  "distance": 148
+                                                }
+                                              ]
+                                           }
+                                         ]
+                                       },
+                                       {
+                                         "name": "Mersin",
+                                         "heuristic": 245,
+                                         "distance": 188,
+                                         "children": [
+                                           {
+                                             "name": "Adana",
+                                             "heuristic": 182,
+                                             "distance": 86,
+                                             "children": [
+                                               {
+                                                  "name": "Osmaniye",
+                                                  "heuristic": 107,
+                                                  "distance": 113,
+                                                  "children": [
+                                                    {
+                                                      "name": "Kahramanmaraş",
+                                                      "heuristic": 85,
+                                                      "distance": 161,
+                                                      "children": [
+                                                        {
+                                                          "name": "Gaziantep",
+                                                          "heuristic": 0,
+                                                          "distance": 117
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "Gaziantep",
+                                                      "heuristic": 0,
+                                                      "distance": 148
+                                                    }
+                                                  ]
+                                               }
+                                             ]
+                                           }
+                                         ]
+                                       }
+                                     ]
+                                   }
+                                 ]
+                              },
+                             {
+                                 "name": "Aksaray",
+                                 "heuristic": 328,
+                                 "distance": 97,
+                                 "children": [
+                                   {
+                                     "name": "Nevşehir",
+                                     "heuristic": 298,
+                                     "distance": 81,
+                                     "children": [
+                                       {
+                                         "name": "Kayseri",
+                                         "heuristic": 248,
+                                         "distance": 85,
+                                         "children": [
+                                           {
+                                              "name": "Kahramanmaraş",
+                                              "heuristic": 85,
+                                              "distance": 286,
+                                              "children": [
+                                                {
+                                                  "name": "Gaziantep",
+                                                  "heuristic": 0,
+                                                  "distance": 117
+                                                }
+                                              ]
+                                            },
+                                           {
+                                             "name": "Adana",
+                                             "heuristic": 182,
+                                             "distance": 306,
+                                             "children": [
+                                               {
+                                                  "name": "Osmaniye",
+                                                  "heuristic": 107,
+                                                  "distance": 113,
+                                                  "children": [
+                                                    {
+                                                      "name": "Kahramanmaraş",
+                                                      "heuristic": 85,
+                                                      "distance": 161,
+                                                      "children": [
+                                                        {
+                                                          "name": "Gaziantep",
+                                                          "heuristic": 0,
+                                                          "distance": 117
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "Gaziantep",
+                                                      "heuristic": 0,
+                                                      "distance": 148
+                                                    }
+                                                  ]
+                                               }
+                                             ]
+                                           }
+                                         ]
+                                       },
+                                       {
+                                         "name": "Niğde",
+                                         "heuristic": 258,
+                                         "distance": 97,
+                                         "children": [
+                                           {
+                                             "name": "Adana",
+                                             "heuristic": 182,
+                                             "distance": 182,
+                                             "children": [
+                                               {
+                                                  "name": "Osmaniye",
+                                                  "heuristic": 107,
+                                                  "distance": 113,
+                                                  "children": [
+                                                    {
+                                                      "name": "Kahramanmaraş",
+                                                      "heuristic": 85,
+                                                      "distance": 161,
+                                                      "children": [
+                                                        {
+                                                          "name": "Gaziantep",
+                                                          "heuristic": 0,
+                                                          "distance": 117
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "Gaziantep",
+                                                      "heuristic": 0,
+                                                      "distance": 148
+                                                    }
+                                                  ]
+                                               }
+                                             ]
+                                           },
+                                           {
+                                             "name": "Mersin",
+                                             "heuristic": 245,
+                                             "distance": 188,
+                                             "children": [
+                                               {
+                                                 "name": "Adana",
+                                                 "heuristic": 182,
+                                                 "distance": 86,
+                                                 "children": [
+                                                   {
+                                                      "name": "Osmaniye",
+                                                      "heuristic": 107,
+                                                      "distance": 113,
+                                                      "children": [
+                                                        {
+                                                          "name": "Kahramanmaraş",
+                                                          "heuristic": 85,
+                                                          "distance": 161,
+                                                          "children": [
+                                                            {
+                                                              "name": "Gaziantep",
+                                                              "heuristic": 0,
+                                                              "distance": 117
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "name": "Gaziantep",
+                                                          "heuristic": 0,
+                                                          "distance": 148
+                                                        }
+                                                      ]
+                                                   }
+                                                 ]
+                                               }
+                                             ]
+                                           }
+                                         ]
+                                       }
+                                     ]
+                                  },
+                                   {
+                                     "name": "Niğde",
+                                     "heuristic": 258,
+                                     "distance": 108,
+                                     "children": [
+                                       {
+                                         "name": "Adana",
+                                         "heuristic": 182,
+                                         "distance": 84,
+                                         "children": [
+                                           {
+                                              "name": "Osmaniye",
+                                              "heuristic": 107,
+                                              "distance": 113,
+                                              "children": [
+                                                {
+                                                  "name": "Kahramanmaraş",
+                                                  "heuristic": 85,
+                                                  "distance": 161,
+                                                  "children": [
+                                                    {
+                                                      "name": "Gaziantep",
+                                                      "heuristic": 0,
+                                                      "distance": 117
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "Gaziantep",
+                                                  "heuristic": 0,
+                                                  "distance": 148
+                                                }
+                                              ]
+                                           }
+                                         ]
+                                       },
+                                       {
+                                     "name": "Mersin",
+                                     "heuristic": 245,
+                                     "distance": 292,
+                                     "children": [
+                                       {
+                                         "name": "Adana",
+                                         "heuristic": 182,
+                                         "distance": 84,
+                                         "children": [
+                                           {
+                                              "name": "Osmaniye",
+                                              "heuristic": 107,
+                                              "distance": 113,
+                                              "children": [
+                                                {
+                                                  "name": "Kahramanmaraş",
+                                                  "heuristic": 85,
+                                                  "distance": 161,
+                                                  "children": [
+                                                    {
+                                                      "name": "Gaziantep",
+                                                      "heuristic": 0,
+                                                      "distance": 117
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "Gaziantep",
+                                                  "heuristic": 0,
+                                                  "distance": 148
+                                                }
+                                              ]
+                                           }
+                                         ]
+                                       }
+                                     ]
+                                   }
+                                     ]
+                                   }
+                                 ]
+                              }
+                           ]
+                         }
+                       ]
+                    }
+                   ]
+                 },
+      {
+         "name": "Kırıkkale",
+         "heuristic": 457,
+         "distance": 81,
+         "children": [
+           {
+                         "name": "Yozgat",
+                         "heuristic": 379,
+                         "distance": 140,
+                         "children": [
+                           {
+                             "name": "Kayseri",
+                             "heuristic": 248,
+                             "distance": 171,
+                             "children": [
+                               {
+                                  "name": "Kahramanmaraş",
+                                  "heuristic": 85,
+                                  "distance": 286,
+                                  "children": [
+                                    {
+                                      "name": "Gaziantep",
+                                      "heuristic": 0,
+                                      "distance": 117
+                                    }
+                                  ]
+                                },
+                               {
+                                 "name": "Adana",
+                                 "heuristic": 182,
+                                 "distance": 306,
+                                 "children": [
+                                   {
+                                      "name": "Osmaniye",
+                                      "heuristic": 107,
+                                      "distance": 113,
+                                      "children": [
+                                        {
+                                          "name": "Kahramanmaraş",
+                                          "heuristic": 85,
+                                          "distance": 161,
+                                          "children": [
+                                            {
+                                              "name": "Gaziantep",
+                                              "heuristic": 0,
+                                              "distance": 117
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Gaziantep",
+                                          "heuristic": 0,
+                                          "distance": 148
+                                        }
+                                      ]
+                                   }
+                                 ]
+                               }
+                             ]
+                           }
+                         ]
+                      },
+           {
+                   "name": "Kırşehir",
+                   "heuristic": 364,
+                   "distance": 110,
+                   "children": [
+                     {
+                         "name": "Yozgat",
+                         "heuristic": 379,
+                         "distance": 113,
+                         "children": [
+                           {
+                             "name": "Kayseri",
+                             "heuristic": 248,
+                             "distance": 171,
+                             "children": [
+                               {
+                                  "name": "Kahramanmaraş",
+                                  "heuristic": 85,
+                                  "distance": 286,
+                                  "children": [
+                                    {
+                                      "name": "Gaziantep",
+                                      "heuristic": 0,
+                                      "distance": 117
+                                    }
+                                  ]
+                                },
+                               {
+                                 "name": "Adana",
+                                 "heuristic": 182,
+                                 "distance": 306,
+                                 "children": [
+                                   {
+                                      "name": "Osmaniye",
+                                      "heuristic": 107,
+                                      "distance": 113,
+                                      "children": [
+                                        {
+                                          "name": "Kahramanmaraş",
+                                          "heuristic": 85,
+                                          "distance": 161,
+                                          "children": [
+                                            {
+                                              "name": "Gaziantep",
+                                              "heuristic": 0,
+                                              "distance": 117
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Gaziantep",
+                                          "heuristic": 0,
+                                          "distance": 148
+                                        }
+                                      ]
+                                   }
+                                 ]
+                               }
+                             ]
+                           }
+                         ]
+                      },
+                     {
+                         "name": "Nevşehir",
+                         "heuristic": 298,
+                         "distance": 84,
+                         "children": [
+                           {
+                             "name": "Kayseri",
+                             "heuristic": 248,
+                             "distance": 85,
+                             "children": [
+                               {
+                                  "name": "Kahramanmaraş",
+                                  "heuristic": 85,
+                                  "distance": 286,
+                                  "children": [
+                                    {
+                                      "name": "Gaziantep",
+                                      "heuristic": 0,
+                                      "distance": 117
+                                    }
+                                  ]
+                                },
+                               {
+                                 "name": "Adana",
+                                 "heuristic": 182,
+                                 "distance": 306,
+                                 "children": [
+                                   {
+                                      "name": "Osmaniye",
+                                      "heuristic": 107,
+                                      "distance": 113,
+                                      "children": [
+                                        {
+                                          "name": "Kahramanmaraş",
+                                          "heuristic": 85,
+                                          "distance": 161,
+                                          "children": [
+                                            {
+                                              "name": "Gaziantep",
+                                              "heuristic": 0,
+                                              "distance": 117
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Gaziantep",
+                                          "heuristic": 0,
+                                          "distance": 148
+                                        }
+                                      ]
+                                   }
+                                 ]
+                               }
+                             ]
+                           },
+                           {
+                             "name": "Niğde",
+                             "heuristic": 258,
+                             "distance": 97,
+                             "children": [
+                               {
+                                 "name": "Adana",
+                                 "heuristic": 182,
+                                 "distance": 182,
+                                 "children": [
+                                   {
+                                      "name": "Osmaniye",
+                                      "heuristic": 107,
+                                      "distance": 113,
+                                      "children": [
+                                        {
+                                          "name": "Kahramanmaraş",
+                                          "heuristic": 85,
+                                          "distance": 161,
+                                          "children": [
+                                            {
+                                              "name": "Gaziantep",
+                                              "heuristic": 0,
+                                              "distance": 117
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "Gaziantep",
+                                          "heuristic": 0,
+                                          "distance": 148
+                                        }
+                                      ]
+                                   }
+                                 ]
+                               },
+                               {
+                                 "name": "Mersin",
+                                 "heuristic": 245,
+                                 "distance": 188,
+                                 "children": [
+                                   {
+                                     "name": "Adana",
+                                     "heuristic": 182,
+                                     "distance": 86,
+                                     "children": [
+                                       {
+                                          "name": "Osmaniye",
+                                          "heuristic": 107,
+                                          "distance": 113,
+                                          "children": [
+                                            {
+                                              "name": "Kahramanmaraş",
+                                              "heuristic": 85,
+                                              "distance": 161,
+                                              "children": [
+                                                {
+                                                  "name": "Gaziantep",
+                                                  "heuristic": 0,
+                                                  "distance": 117
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "Gaziantep",
+                                              "heuristic": 0,
+                                              "distance": 148
+                                            }
+                                          ]
+                                       }
+                                     ]
+                                   }
+                                 ]
+                               }
+                             ]
+                           }
+                         ]
+                      },
+                     {
+                       "name": "Aksaray",
+                       "heuristic": 328,
+                       "distance": 97,
+                       "children": [
+                         {
+                           "name": "Niğde",
+                           "heuristic": 258,
+                           "distance": 108,
+                           "children": [
+                             {
+                               "name": "Adana",
+                               "heuristic": 182,
+                               "distance": 84,
+                               "children": [
+                                 {
+                                    "name": "Osmaniye",
+                                    "heuristic": 107,
+                                    "distance": 113,
+                                    "children": [
+                                      {
+                                        "name": "Kahramanmaraş",
+                                        "heuristic": 85,
+                                        "distance": 161,
+                                        "children": [
+                                          {
+                                            "name": "Gaziantep",
+                                            "heuristic": 0,
+                                            "distance": 117
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "Gaziantep",
+                                        "heuristic": 0,
+                                        "distance": 148
+                                      }
+                                    ]
+                                 }
+                               ]
+                             },
+                             {
+                           "name": "Mersin",
+                           "heuristic": 245,
+                           "distance": 292,
+                           "children": [
+                             {
+                               "name": "Adana",
+                               "heuristic": 182,
+                               "distance": 84,
+                               "children": [
+                                 {
+                                    "name": "Osmaniye",
+                                    "heuristic": 107,
+                                    "distance": 113,
+                                    "children": [
+                                      {
+                                        "name": "Kahramanmaraş",
+                                        "heuristic": 85,
+                                        "distance": 161,
+                                        "children": [
+                                          {
+                                            "name": "Gaziantep",
+                                            "heuristic": 0,
+                                            "distance": 117
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "Gaziantep",
+                                        "heuristic": 0,
+                                        "distance": 148
+                                      }
+                                    ]
+                                 }
+                               ]
+                             }
+                           ]
+                         }
+                           ]
+                         },
+                         {
+                           "name": "Kırşehir",
+                           "heuristic": 364,
+                           "distance": 94,
+                           "children": [
+                             {
+                                 "name": "Yozgat",
+                                 "heuristic": 379,
+                                 "distance": 113,
+                                 "children": [
+                                   {
+                                     "name": "Kayseri",
+                                     "heuristic": 248,
+                                     "distance": 171,
+                                     "children": [
+                                       {
+                                          "name": "Kahramanmaraş",
+                                          "heuristic": 85,
+                                          "distance": 286,
+                                          "children": [
+                                            {
+                                              "name": "Gaziantep",
+                                              "heuristic": 0,
+                                              "distance": 117
+                                            }
+                                          ]
+                                        },
+                                       {
+                                         "name": "Adana",
+                                         "heuristic": 182,
+                                         "distance": 306,
+                                         "children": [
+                                           {
+                                              "name": "Osmaniye",
+                                              "heuristic": 107,
+                                              "distance": 113,
+                                              "children": [
+                                                {
+                                                  "name": "Kahramanmaraş",
+                                                  "heuristic": 85,
+                                                  "distance": 161,
+                                                  "children": [
+                                                    {
+                                                      "name": "Gaziantep",
+                                                      "heuristic": 0,
+                                                      "distance": 117
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "Gaziantep",
+                                                  "heuristic": 0,
+                                                  "distance": 148
+                                                }
+                                              ]
+                                           }
+                                         ]
+                                       }
+                                     ]
+                                   }
+                                 ]
+                              },
+                             {
+                                 "name": "Nevşehir",
+                                 "heuristic": 298,
+                                 "distance": 84,
+                                 "children": [
+                                   {
+                                     "name": "Kayseri",
+                                     "heuristic": 248,
+                                     "distance": 85,
+                                     "children": [
+                                       {
+                                          "name": "Kahramanmaraş",
+                                          "heuristic": 85,
+                                          "distance": 286,
+                                          "children": [
+                                            {
+                                              "name": "Gaziantep",
+                                              "heuristic": 0,
+                                              "distance": 117
+                                            }
+                                          ]
+                                        },
+                                       {
+                                         "name": "Adana",
+                                         "heuristic": 182,
+                                         "distance": 306,
+                                         "children": [
+                                           {
+                                              "name": "Osmaniye",
+                                              "heuristic": 107,
+                                              "distance": 113,
+                                              "children": [
+                                                {
+                                                  "name": "Kahramanmaraş",
+                                                  "heuristic": 85,
+                                                  "distance": 161,
+                                                  "children": [
+                                                    {
+                                                      "name": "Gaziantep",
+                                                      "heuristic": 0,
+                                                      "distance": 117
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "Gaziantep",
+                                                  "heuristic": 0,
+                                                  "distance": 148
+                                                }
+                                              ]
+                                           }
+                                         ]
+                                       }
+                                     ]
+                                   },
+                                   {
+                                     "name": "Niğde",
+                                     "heuristic": 258,
+                                     "distance": 97,
+                                     "children": [
+                                       {
+                                         "name": "Adana",
+                                         "heuristic": 182,
+                                         "distance": 182,
+                                         "children": [
+                                           {
+                                              "name": "Osmaniye",
+                                              "heuristic": 107,
+                                              "distance": 113,
+                                              "children": [
+                                                {
+                                                  "name": "Kahramanmaraş",
+                                                  "heuristic": 85,
+                                                  "distance": 161,
+                                                  "children": [
+                                                    {
+                                                      "name": "Gaziantep",
+                                                      "heuristic": 0,
+                                                      "distance": 117
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "Gaziantep",
+                                                  "heuristic": 0,
+                                                  "distance": 148
+                                                }
+                                              ]
+                                           }
+                                         ]
+                                       },
+                                       {
+                                         "name": "Mersin",
+                                         "heuristic": 245,
+                                         "distance": 188,
+                                         "children": [
+                                           {
+                                             "name": "Adana",
+                                             "heuristic": 182,
+                                             "distance": 86,
+                                             "children": [
+                                               {
+                                                  "name": "Osmaniye",
+                                                  "heuristic": 107,
+                                                  "distance": 113,
+                                                  "children": [
+                                                    {
+                                                      "name": "Kahramanmaraş",
+                                                      "heuristic": 85,
+                                                      "distance": 161,
+                                                      "children": [
+                                                        {
+                                                          "name": "Gaziantep",
+                                                          "heuristic": 0,
+                                                          "distance": 117
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "Gaziantep",
+                                                      "heuristic": 0,
+                                                      "distance": 148
+                                                    }
+                                                  ]
+                                               }
+                                             ]
+                                           }
+                                         ]
+                                       }
+                                     ]
+                                   }
+                                 ]
+                              },
+                             {
+                                 "name": "Aksaray",
+                                 "heuristic": 328,
+                                 "distance": 97,
+                                 "children": [
+                                   {
+                                     "name": "Nevşehir",
+                                     "heuristic": 298,
+                                     "distance": 81,
+                                     "children": [
+                                       {
+                                         "name": "Kayseri",
+                                         "heuristic": 248,
+                                         "distance": 85,
+                                         "children": [
+                                           {
+                                              "name": "Kahramanmaraş",
+                                              "heuristic": 85,
+                                              "distance": 286,
+                                              "children": [
+                                                {
+                                                  "name": "Gaziantep",
+                                                  "heuristic": 0,
+                                                  "distance": 117
+                                                }
+                                              ]
+                                            },
+                                           {
+                                             "name": "Adana",
+                                             "heuristic": 182,
+                                             "distance": 306,
+                                             "children": [
+                                               {
+                                                  "name": "Osmaniye",
+                                                  "heuristic": 107,
+                                                  "distance": 113,
+                                                  "children": [
+                                                    {
+                                                      "name": "Kahramanmaraş",
+                                                      "heuristic": 85,
+                                                      "distance": 161,
+                                                      "children": [
+                                                        {
+                                                          "name": "Gaziantep",
+                                                          "heuristic": 0,
+                                                          "distance": 117
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "Gaziantep",
+                                                      "heuristic": 0,
+                                                      "distance": 148
+                                                    }
+                                                  ]
+                                               }
+                                             ]
+                                           }
+                                         ]
+                                       },
+                                       {
+                                         "name": "Niğde",
+                                         "heuristic": 258,
+                                         "distance": 97,
+                                         "children": [
+                                           {
+                                             "name": "Adana",
+                                             "heuristic": 182,
+                                             "distance": 182,
+                                             "children": [
+                                               {
+                                                  "name": "Osmaniye",
+                                                  "heuristic": 107,
+                                                  "distance": 113,
+                                                  "children": [
+                                                    {
+                                                      "name": "Kahramanmaraş",
+                                                      "heuristic": 85,
+                                                      "distance": 161,
+                                                      "children": [
+                                                        {
+                                                          "name": "Gaziantep",
+                                                          "heuristic": 0,
+                                                          "distance": 117
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "Gaziantep",
+                                                      "heuristic": 0,
+                                                      "distance": 148
+                                                    }
+                                                  ]
+                                               }
+                                             ]
+                                           },
+                                           {
+                                             "name": "Mersin",
+                                             "heuristic": 245,
+                                             "distance": 188,
+                                             "children": [
+                                               {
+                                                 "name": "Adana",
+                                                 "heuristic": 182,
+                                                 "distance": 86,
+                                                 "children": [
+                                                   {
+                                                      "name": "Osmaniye",
+                                                      "heuristic": 107,
+                                                      "distance": 113,
+                                                      "children": [
+                                                        {
+                                                          "name": "Kahramanmaraş",
+                                                          "heuristic": 85,
+                                                          "distance": 161,
+                                                          "children": [
+                                                            {
+                                                              "name": "Gaziantep",
+                                                              "heuristic": 0,
+                                                              "distance": 117
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "name": "Gaziantep",
+                                                          "heuristic": 0,
+                                                          "distance": 148
+                                                        }
+                                                      ]
+                                                   }
+                                                 ]
+                                               }
+                                             ]
+                                           }
+                                         ]
+                                       }
+                                     ]
+                                  },
+                                   {
+                                     "name": "Niğde",
+                                     "heuristic": 258,
+                                     "distance": 108,
+                                     "children": [
+                                       {
+                                         "name": "Adana",
+                                         "heuristic": 182,
+                                         "distance": 84,
+                                         "children": [
+                                           {
+                                              "name": "Osmaniye",
+                                              "heuristic": 107,
+                                              "distance": 113,
+                                              "children": [
+                                                {
+                                                  "name": "Kahramanmaraş",
+                                                  "heuristic": 85,
+                                                  "distance": 161,
+                                                  "children": [
+                                                    {
+                                                      "name": "Gaziantep",
+                                                      "heuristic": 0,
+                                                      "distance": 117
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "Gaziantep",
+                                                  "heuristic": 0,
+                                                  "distance": 148
+                                                }
+                                              ]
+                                           }
+                                         ]
+                                       },
+                                       {
+                                     "name": "Mersin",
+                                     "heuristic": 245,
+                                     "distance": 292,
+                                     "children": [
+                                       {
+                                         "name": "Adana",
+                                         "heuristic": 182,
+                                         "distance": 84,
+                                         "children": [
+                                           {
+                                              "name": "Osmaniye",
+                                              "heuristic": 107,
+                                              "distance": 113,
+                                              "children": [
+                                                {
+                                                  "name": "Kahramanmaraş",
+                                                  "heuristic": 85,
+                                                  "distance": 161,
+                                                  "children": [
+                                                    {
+                                                      "name": "Gaziantep",
+                                                      "heuristic": 0,
+                                                      "distance": 117
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "name": "Gaziantep",
+                                                  "heuristic": 0,
+                                                  "distance": 148
+                                                }
+                                              ]
+                                           }
+                                         ]
+                                       }
+                                     ]
+                                   }
+                                     ]
+                                   }
+                                 ]
+                              }
+                           ]
+                         }
+                       ]
+                    }
+                   ]
+                 }
+         ]
+      }
+   ]
+}
