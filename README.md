@@ -9,9 +9,12 @@ Bu uygulama ile belirlenen şehirlere en kısa mesafeden nasıl gidileceği beli
 
 A* algoritması, iki düğüm arasındaki en kısa yolu bulmak için kullanılan bir algoritmadır. Bu en kısa yolu bulurken üç değeri göz önünde bulundurmaktadır. Bunlar;
 
--•	Bulunulan düğüm ile bitiş düğümü arasındaki kuş bakışı uzaklık,
--•	Bulunulan düğüm ile gidilecek düğüm arasındaki gerçek uzaklık,
--•	Bulunulan düğüme gelirken gidilen gerçek uzaklık.
+•	Bulunulan düğüm ile bitiş düğümü arasındaki kuş bakışı uzaklık,
+
+•	Bulunulan düğüm ile gidilecek düğüm arasındaki gerçek uzaklık,
+
+•	Bulunulan düğüme gelirken gidilen gerçek uzaklık.
+
 
 Bu elde edilen üç değer ile A* algoritmasının bulduğu en kısa yol elde edilmiş olunur.
 
@@ -26,15 +29,21 @@ A* algoritması genel olarak en kısa yolun bulunmasında kullanılır. Bu en k�
 
 ## 2.4. A* Algoritması Avantajları
 
--•	Diğer arama algoritmalarından farklı olarak sezgisel ve gerçek değerin karışımı bir maliyet hesapladığı için gerçeğe daha yakındır,
--•	Düğüm genişletilerek alınan verim diğer arama algoritmalarına kıyasla en fazladır,
--•	En optimal değeri verir,
--•	Bulduğu ilk düğüm hedef düğümdür.
+•	Diğer arama algoritmalarından farklı olarak sezgisel ve gerçek değerin karışımı bir maliyet hesapladığı için gerçeğe daha yakındır,
+
+•	Düğüm genişletilerek alınan verim diğer arama algoritmalarına kıyasla en fazladır,
+
+•	En optimal değeri verir,
+
+•	Bulduğu ilk düğüm hedef düğümdür.
+
 
 ## 2.5. A* Algoritması Dezavantajları
 
--•	Her adımın sabit bir maliyeti varsa çalışmaz,
--•	Bazı problemlerde karmaşıklık ortaya çıkarabilir.
+•	Her adımın sabit bir maliyeti varsa çalışmaz,
+
+•	Bazı problemlerde karmaşıklık ortaya çıkarabilir.
+
 
 
 
